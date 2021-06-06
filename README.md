@@ -1,4 +1,4 @@
-# Depoloy Dockerimage to AWS ECR
+# Push Dockerimage to AWS ECR
 
 - Create docker repository on ECR, lets say. `ecr-web-image` on https://console.aws.amazon.com/ecr/repositories?region=us-east-1.
 
